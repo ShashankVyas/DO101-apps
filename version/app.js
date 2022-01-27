@@ -13,5 +13,5 @@ app.get('/', function (req, res) {
 });
 
 app.listen(8080, function () {
-  console.log('Server listens on port 8080 but also 8443...');
+  console.log('Server listen on port 8080 but also 8443...');
 });
